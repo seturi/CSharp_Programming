@@ -1,0 +1,12 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\10 ExceptionTest\bin\Debug\10 ExceptionTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\10 ExceptionTest\bin\Debug\10 ExceptionTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\10 ExceptionTest\bin\Debug\10 ExceptionTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\10 ExceptionTest\obj\Debug\10 ExceptionTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\10 ExceptionTest\obj\Debug\10 ExceptionTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\10 ExceptionTest\obj\Debug\10 ExceptionTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\10 ExceptionTest\bin\Debug\10 ExceptionTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\10 ExceptionTest\bin\Debug\10 ExceptionTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\10 ExceptionTest\bin\Debug\10 ExceptionTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\10 ExceptionTest\obj\Debug\10 ExceptionTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\10 ExceptionTest\obj\Debug\10 ExceptionTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\10 ExceptionTest\obj\Debug\10 ExceptionTest.pdb

@@ -1,0 +1,13 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\12 StructTest\bin\Debug\12 StructTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\12 StructTest\bin\Debug\12 StructTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\12 StructTest\bin\Debug\12 StructTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\12 StructTest\obj\Debug\12 StructTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\12 StructTest\obj\Debug\12 StructTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\12 StructTest\obj\Debug\12 StructTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\12 StructTest\bin\Debug\12 StructTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\12 StructTest\bin\Debug\12 StructTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\12 StructTest\bin\Debug\12 StructTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\12 StructTest\obj\Debug\12 StructTest.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\12 StructTest\obj\Debug\12 StructTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\12 StructTest\obj\Debug\12 StructTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\12 StructTest\obj\Debug\12 StructTest.pdb

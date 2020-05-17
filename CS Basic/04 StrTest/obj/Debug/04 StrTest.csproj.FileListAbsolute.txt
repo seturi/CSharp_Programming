@@ -1,0 +1,12 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\04 StrTest\bin\Debug\04 StrTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\04 StrTest\bin\Debug\04 StrTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\04 StrTest\bin\Debug\04 StrTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\04 StrTest\obj\Debug\04 StrTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\04 StrTest\obj\Debug\04 StrTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\04 StrTest\obj\Debug\04 StrTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\04 StrTest\bin\Debug\04 StrTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\04 StrTest\bin\Debug\04 StrTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\04 StrTest\bin\Debug\04 StrTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\04 StrTest\obj\Debug\04 StrTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\04 StrTest\obj\Debug\04 StrTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\04 StrTest\obj\Debug\04 StrTest.pdb

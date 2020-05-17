@@ -1,0 +1,12 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\08 LoopTest\bin\Debug\08 LoopTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\08 LoopTest\bin\Debug\08 LoopTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\08 LoopTest\bin\Debug\08 LoopTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\08 LoopTest\obj\Debug\08 LoopTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\08 LoopTest\obj\Debug\08 LoopTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\08 LoopTest\obj\Debug\08 LoopTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\08 LoopTest\bin\Debug\08 LoopTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\08 LoopTest\bin\Debug\08 LoopTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\08 LoopTest\bin\Debug\08 LoopTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\08 LoopTest\obj\Debug\08 LoopTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\08 LoopTest\obj\Debug\08 LoopTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\08 LoopTest\obj\Debug\08 LoopTest.pdb

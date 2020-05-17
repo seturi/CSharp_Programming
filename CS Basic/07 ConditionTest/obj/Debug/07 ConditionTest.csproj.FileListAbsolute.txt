@@ -1,0 +1,12 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\07 ConditionTest\bin\Debug\07 ConditionTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\07 ConditionTest\bin\Debug\07 ConditionTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\07 ConditionTest\bin\Debug\07 ConditionTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\07 ConditionTest\obj\Debug\07 ConditionTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\07 ConditionTest\obj\Debug\07 ConditionTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\07 ConditionTest\obj\Debug\07 ConditionTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\07 ConditionTest\bin\Debug\07 ConditionTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\07 ConditionTest\bin\Debug\07 ConditionTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\07 ConditionTest\bin\Debug\07 ConditionTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\07 ConditionTest\obj\Debug\07 ConditionTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\07 ConditionTest\obj\Debug\07 ConditionTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\07 ConditionTest\obj\Debug\07 ConditionTest.pdb

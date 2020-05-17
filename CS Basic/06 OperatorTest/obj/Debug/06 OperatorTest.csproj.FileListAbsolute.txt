@@ -1,0 +1,12 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\06 OperatorTest\bin\Debug\06 OperatorTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\06 OperatorTest\bin\Debug\06 OperatorTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\06 OperatorTest\bin\Debug\06 OperatorTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\06 OperatorTest\obj\Debug\06 OperatorTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\06 OperatorTest\obj\Debug\06 OperatorTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\06 OperatorTest\obj\Debug\06 OperatorTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\06 OperatorTest\bin\Debug\06 OperatorTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\06 OperatorTest\bin\Debug\06 OperatorTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\06 OperatorTest\bin\Debug\06 OperatorTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\06 OperatorTest\obj\Debug\06 OperatorTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\06 OperatorTest\obj\Debug\06 OperatorTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\06 OperatorTest\obj\Debug\06 OperatorTest.pdb

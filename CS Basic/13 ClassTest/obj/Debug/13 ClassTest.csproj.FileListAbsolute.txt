@@ -1,0 +1,14 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\13 ClassTest\bin\Debug\13 ClassTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\13 ClassTest\bin\Debug\13 ClassTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\13 ClassTest\bin\Debug\13 ClassTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\13 ClassTest\obj\Debug\13 ClassTest.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\13 ClassTest\obj\Debug\13 ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\13 ClassTest\obj\Debug\13 ClassTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\13 ClassTest\obj\Debug\13 ClassTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\13 ClassTest\bin\Debug\13 ClassTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\13 ClassTest\bin\Debug\13 ClassTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\13 ClassTest\bin\Debug\13 ClassTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\13 ClassTest\obj\Debug\13 ClassTest.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\13 ClassTest\obj\Debug\13 ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\13 ClassTest\obj\Debug\13 ClassTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\13 ClassTest\obj\Debug\13 ClassTest.pdb

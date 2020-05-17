@@ -1,0 +1,12 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\11 NamespaceTest\bin\Debug\11 MyProject.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\11 NamespaceTest\bin\Debug\11 MyProject.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\11 NamespaceTest\bin\Debug\11 MyProject.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\11 NamespaceTest\obj\Debug\11 NamespaceTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\11 NamespaceTest\obj\Debug\11 MyProject.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\11 NamespaceTest\obj\Debug\11 MyProject.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\11 NamespaceTest\bin\Debug\11 MyProject.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\11 NamespaceTest\bin\Debug\11 MyProject.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\11 NamespaceTest\bin\Debug\11 MyProject.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\11 NamespaceTest\obj\Debug\11 NamespaceTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\11 NamespaceTest\obj\Debug\11 MyProject.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\11 NamespaceTest\obj\Debug\11 MyProject.pdb

@@ -1,0 +1,13 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\02 DataTypeTest\bin\Debug\02 DataTypeTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\02 DataTypeTest\bin\Debug\02 DataTypeTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\02 DataTypeTest\bin\Debug\02 DataTypeTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\02 DataTypeTest\obj\Debug\02 DataTypeTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\02 DataTypeTest\obj\Debug\02 DataTypeTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\HelloWorld\02 DataTypeTest\obj\Debug\02 DataTypeTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\02 DataTypeTest\bin\Debug\02 DataTypeTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\02 DataTypeTest\bin\Debug\02 DataTypeTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\02 DataTypeTest\bin\Debug\02 DataTypeTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\02 DataTypeTest\obj\Debug\02 DataTypeTest.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\02 DataTypeTest\obj\Debug\02 DataTypeTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\02 DataTypeTest\obj\Debug\02 DataTypeTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\02 DataTypeTest\obj\Debug\02 DataTypeTest.pdb
