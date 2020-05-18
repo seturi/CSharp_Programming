@@ -1,0 +1,10 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\16 CopyFile\bin\Debug\16 CopyFile.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\16 CopyFile\bin\Debug\16 CopyFile.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\16 CopyFile\bin\Debug\16 CopyFile.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\16 CopyFile\obj\Debug\16 CopyFile.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\16 CopyFile\obj\Debug\_16_CopyFile.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\16 CopyFile\obj\Debug\_16_CopyFile.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\16 CopyFile\obj\Debug\16 CopyFile.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\16 CopyFile\obj\Debug\16 CopyFile.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\16 CopyFile\obj\Debug\16 CopyFile.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\16 CopyFile\obj\Debug\16 CopyFile.pdb

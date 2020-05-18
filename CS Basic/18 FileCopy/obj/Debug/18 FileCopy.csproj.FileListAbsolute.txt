@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\18 FileCopy\bin\Debug\18 FileCopy.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\18 FileCopy\bin\Debug\18 FileCopy.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\18 FileCopy\bin\Debug\18 FileCopy.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\18 FileCopy\obj\Debug\18 FileCopy.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\18 FileCopy\obj\Debug\18 FileCopy.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\18 FileCopy\obj\Debug\18 FileCopy.pdb

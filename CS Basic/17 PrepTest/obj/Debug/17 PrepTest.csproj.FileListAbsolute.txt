@@ -1,0 +1,7 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\17 PrepTest\bin\Debug\17 PrepTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\17 PrepTest\bin\Debug\17 PrepTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\17 PrepTest\bin\Debug\17 PrepTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\17 PrepTest\obj\Debug\17 PrepTest.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\17 PrepTest\obj\Debug\17 PrepTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\17 PrepTest\obj\Debug\17 PrepTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Basic\17 PrepTest\obj\Debug\17 PrepTest.pdb
