@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\04 StaticTest\bin\Debug\04 StaticTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\04 StaticTest\bin\Debug\04 StaticTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\04 StaticTest\bin\Debug\04 StaticTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\04 StaticTest\obj\Debug\04 StaticTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\04 StaticTest\obj\Debug\04 StaticTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\04 StaticTest\obj\Debug\04 StaticTest.pdb

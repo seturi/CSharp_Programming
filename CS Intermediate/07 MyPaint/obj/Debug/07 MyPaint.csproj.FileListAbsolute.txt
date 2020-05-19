@@ -1,0 +1,13 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\obj\Debug\_07_MyPaint.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\obj\Debug\_07_MyPaint.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\obj\Debug\07 MyPaint.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\obj\Debug\07 MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\bin\Debug\07 MyPaint.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\bin\Debug\07 MyPaint.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\bin\Debug\07 MyPaint.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\bin\Debug\07 MyPaintltf.dll
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\bin\Debug\07 MyPaintltf.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\obj\Debug\07 MyPaint.csproj.CopyComplete
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\obj\Debug\07 MyPaint.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\obj\Debug\07 MyPaint.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaint\obj\Debug\07 MyPaint.csprojAssemblyReference.cache

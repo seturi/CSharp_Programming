@@ -1,0 +1,10 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\02 ModApp\obj\Debug\02 ModApp.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\02 ModApp\bin\Debug\02 ModApp.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\02 ModApp\bin\Debug\02 ModApp.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\02 ModApp\bin\Debug\02 ModApp.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\02 ModApp\bin\Debug\02 ModLog.dll
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\02 ModApp\bin\Debug\02 ModLog.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\02 ModApp\obj\Debug\02 ModApp.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\02 ModApp\obj\Debug\02 ModApp.csproj.CopyComplete
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\02 ModApp\obj\Debug\02 ModApp.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\02 ModApp\obj\Debug\02 ModApp.pdb

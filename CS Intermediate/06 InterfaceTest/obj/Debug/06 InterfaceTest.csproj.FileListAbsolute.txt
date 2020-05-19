@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\06 InterfaceTest\bin\Debug\06 InterfaceTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\06 InterfaceTest\bin\Debug\06 InterfaceTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\06 InterfaceTest\bin\Debug\06 InterfaceTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\06 InterfaceTest\obj\Debug\06 InterfaceTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\06 InterfaceTest\obj\Debug\06 InterfaceTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\06 InterfaceTest\obj\Debug\06 InterfaceTest.pdb

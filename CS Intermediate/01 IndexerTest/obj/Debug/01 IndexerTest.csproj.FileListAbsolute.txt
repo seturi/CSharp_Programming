@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\01 IndexerTest\bin\Debug\01 IndexerTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\01 IndexerTest\bin\Debug\01 IndexerTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\01 IndexerTest\bin\Debug\01 IndexerTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\01 IndexerTest\obj\Debug\01 IndexerTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\01 IndexerTest\obj\Debug\01 IndexerTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\01 IndexerTest\obj\Debug\01 IndexerTest.pdb

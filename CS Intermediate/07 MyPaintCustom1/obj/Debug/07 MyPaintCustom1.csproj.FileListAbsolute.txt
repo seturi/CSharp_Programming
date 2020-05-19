@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaintCustom1\obj\Debug\07 MyPaintCustom1.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaintCustom1\bin\Debug\07 MyPaintCustom1.dll
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaintCustom1\bin\Debug\07 MyPaintCustom1.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaintCustom1\bin\Debug\07 MyPaintltf.dll
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaintCustom1\bin\Debug\07 MyPaintltf.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaintCustom1\obj\Debug\07 MyPaintCustom1.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaintCustom1\obj\Debug\07 MyPaintCustom1.csproj.CopyComplete
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaintCustom1\obj\Debug\07 MyPaintCustom1.dll
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\07 MyPaintCustom1\obj\Debug\07 MyPaintCustom1.pdb

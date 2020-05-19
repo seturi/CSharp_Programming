@@ -1,0 +1,7 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\05 GenericTest\bin\Debug\05 GenericTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\05 GenericTest\bin\Debug\05 GenericTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\05 GenericTest\bin\Debug\05 GenericTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\05 GenericTest\obj\Debug\05 GenericTest.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\05 GenericTest\obj\Debug\05 GenericTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\05 GenericTest\obj\Debug\05 GenericTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\05 GenericTest\obj\Debug\05 GenericTest.pdb

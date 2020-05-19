@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\03 MsgApp\bin\Debug\03 MsgApp.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\03 MsgApp\bin\Debug\03 MsgApp.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\03 MsgApp\bin\Debug\03 MsgApp.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\03 MsgApp\obj\Debug\03 MsgApp.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\03 MsgApp\obj\Debug\03 MsgApp.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\03 MsgApp\obj\Debug\03 MsgApp.pdb
