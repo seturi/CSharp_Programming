@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\13 DynamicTest\bin\Debug\13 DynamicTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\13 DynamicTest\bin\Debug\13 DynamicTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\13 DynamicTest\bin\Debug\13 DynamicTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\13 DynamicTest\obj\Debug\13 DynamicTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\13 DynamicTest\obj\Debug\13 DynamicTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\13 DynamicTest\obj\Debug\13 DynamicTest.pdb

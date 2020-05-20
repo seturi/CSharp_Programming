@@ -1,0 +1,10 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\09 AnonymousMethod\bin\Debug\09 AnonymousMethod.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\09 AnonymousMethod\bin\Debug\09 AnonymousMethod.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\09 AnonymousMethod\bin\Debug\09 AnonymousMethod.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\09 AnonymousMethod\obj\Debug\09 AnonymousMethod.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\09 AnonymousMethod\obj\Debug\_09_AnonymousMethod.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\09 AnonymousMethod\obj\Debug\_09_AnonymousMethod.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\09 AnonymousMethod\obj\Debug\09 AnonymousMethod.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\09 AnonymousMethod\obj\Debug\09 AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\09 AnonymousMethod\obj\Debug\09 AnonymousMethod.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\09 AnonymousMethod\obj\Debug\09 AnonymousMethod.pdb

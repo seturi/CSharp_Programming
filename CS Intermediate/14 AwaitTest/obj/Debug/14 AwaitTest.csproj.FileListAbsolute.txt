@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\14 AwaitTest\bin\Debug\14 AwaitTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\14 AwaitTest\bin\Debug\14 AwaitTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\14 AwaitTest\bin\Debug\14 AwaitTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\14 AwaitTest\obj\Debug\_14_AwaitTest.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\14 AwaitTest\obj\Debug\_14_AwaitTest.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\14 AwaitTest\obj\Debug\14 AwaitTest.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\14 AwaitTest\obj\Debug\14 AwaitTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\14 AwaitTest\obj\Debug\14 AwaitTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\14 AwaitTest\obj\Debug\14 AwaitTest.pdb

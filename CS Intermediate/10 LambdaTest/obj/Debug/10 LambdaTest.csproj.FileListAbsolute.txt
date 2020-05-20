@@ -1,0 +1,10 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\10 LambdaTest\bin\Debug\10 LambdaTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\10 LambdaTest\bin\Debug\10 LambdaTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\10 LambdaTest\bin\Debug\10 LambdaTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\10 LambdaTest\obj\Debug\10 LambdaTest.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\10 LambdaTest\obj\Debug\_10_LambdaTest.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\10 LambdaTest\obj\Debug\_10_LambdaTest.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\10 LambdaTest\obj\Debug\10 LambdaTest.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\10 LambdaTest\obj\Debug\10 LambdaTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\10 LambdaTest\obj\Debug\10 LambdaTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\10 LambdaTest\obj\Debug\10 LambdaTest.pdb

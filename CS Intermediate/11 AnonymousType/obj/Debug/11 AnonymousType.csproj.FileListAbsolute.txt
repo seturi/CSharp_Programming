@@ -1,0 +1,7 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\11 AnonymousType\bin\Debug\11 AnonymousType.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\11 AnonymousType\bin\Debug\11 AnonymousType.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\11 AnonymousType\bin\Debug\11 AnonymousType.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\11 AnonymousType\obj\Debug\11 AnonymousType.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\11 AnonymousType\obj\Debug\11 AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\11 AnonymousType\obj\Debug\11 AnonymousType.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\11 AnonymousType\obj\Debug\11 AnonymousType.pdb
