@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\15 InheritanceTest\bin\Debug\15 InheritanceTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\15 InheritanceTest\bin\Debug\15 InheritanceTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\15 InheritanceTest\bin\Debug\15 InheritanceTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\15 InheritanceTest\obj\Debug\15 InheritanceTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\15 InheritanceTest\obj\Debug\15 InheritanceTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\15 InheritanceTest\obj\Debug\15 InheritanceTest.pdb

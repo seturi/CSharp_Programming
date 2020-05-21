@@ -1,0 +1,11 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\17 CustomerApp\bin\Debug\17 CustomerApp.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\17 CustomerApp\bin\Debug\17 CustomerApp.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\17 CustomerApp\bin\Debug\17 CustomerApp.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\17 CustomerApp\obj\Debug\17 CustomerApp.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\17 CustomerApp\obj\Debug\_17_CustomerApp.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\17 CustomerApp\obj\Debug\_17_CustomerApp.Form2.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\17 CustomerApp\obj\Debug\_17_CustomerApp.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\17 CustomerApp\obj\Debug\17 CustomerApp.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\17 CustomerApp\obj\Debug\17 CustomerApp.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\17 CustomerApp\obj\Debug\17 CustomerApp.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\17 CustomerApp\obj\Debug\17 CustomerApp.pdb

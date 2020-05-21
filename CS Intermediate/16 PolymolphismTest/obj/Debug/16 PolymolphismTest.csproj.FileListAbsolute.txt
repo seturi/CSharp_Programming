@@ -1,0 +1,7 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\16 PolymolphismTest\bin\Debug\16 PolymolphismTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\16 PolymolphismTest\bin\Debug\16 PolymolphismTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\16 PolymolphismTest\bin\Debug\16 PolymolphismTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\16 PolymolphismTest\obj\Debug\16 PolymolphismTest.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\16 PolymolphismTest\obj\Debug\16 PolymolphismTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\16 PolymolphismTest\obj\Debug\16 PolymolphismTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Intermediate\16 PolymolphismTest\obj\Debug\16 PolymolphismTest.pdb
