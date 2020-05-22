@@ -1,0 +1,7 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\03 CreateObjFromItf\bin\Debug\03 CreateObjFromItf.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\03 CreateObjFromItf\bin\Debug\03 CreateObjFromItf.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\03 CreateObjFromItf\bin\Debug\03 CreateObjFromItf.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\03 CreateObjFromItf\obj\Debug\03 CreateObjFromItf.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\03 CreateObjFromItf\obj\Debug\03 CreateObjFromItf.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\03 CreateObjFromItf\obj\Debug\03 CreateObjFromItf.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\03 CreateObjFromItf\obj\Debug\03 CreateObjFromItf.pdb

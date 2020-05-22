@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\01 ReferenceTest\bin\Debug\01 ReferenceTest.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\01 ReferenceTest\bin\Debug\01 ReferenceTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\01 ReferenceTest\bin\Debug\01 ReferenceTest.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\01 ReferenceTest\obj\Debug\01 ReferenceTest.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\01 ReferenceTest\obj\Debug\01 ReferenceTest.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\01 ReferenceTest\obj\Debug\01 ReferenceTest.pdb

@@ -1,0 +1,13 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\bin\Debug\netcoreapp3.1\05 CS8Index.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\bin\Debug\netcoreapp3.1\05 CS8Index.deps.json
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\bin\Debug\netcoreapp3.1\05 CS8Index.runtimeconfig.json
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\bin\Debug\netcoreapp3.1\05 CS8Index.runtimeconfig.dev.json
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\bin\Debug\netcoreapp3.1\05 CS8Index.dll
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\bin\Debug\netcoreapp3.1\05 CS8Index.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\obj\Debug\netcoreapp3.1\05 CS8Index.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\obj\Debug\netcoreapp3.1\05 CS8Index.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\obj\Debug\netcoreapp3.1\05 CS8Index.AssemblyInfoInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\obj\Debug\netcoreapp3.1\05 CS8Index.AssemblyInfo.cs
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\obj\Debug\netcoreapp3.1\05 CS8Index.dll
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\obj\Debug\netcoreapp3.1\05 CS8Index.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\05 CS8Index\obj\Debug\netcoreapp3.1\05 CS8Index.genruntimeconfig.cache

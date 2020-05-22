@@ -1,0 +1,3 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\04 Common\obj\Debug\netcoreapp3.1\04 Common.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\04 Common\obj\Debug\netcoreapp3.1\04 Common.AssemblyInfoInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\04 Common\obj\Debug\netcoreapp3.1\04 Common.AssemblyInfo.cs
