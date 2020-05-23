@@ -1,0 +1,13 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\bin\Debug\netcoreapp3.1\07 ThreadApp.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\bin\Debug\netcoreapp3.1\07 ThreadApp.deps.json
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\bin\Debug\netcoreapp3.1\07 ThreadApp.runtimeconfig.json
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\bin\Debug\netcoreapp3.1\07 ThreadApp.runtimeconfig.dev.json
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\bin\Debug\netcoreapp3.1\07 ThreadApp.dll
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\bin\Debug\netcoreapp3.1\07 ThreadApp.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\obj\Debug\netcoreapp3.1\07 ThreadApp.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\obj\Debug\netcoreapp3.1\07 ThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\obj\Debug\netcoreapp3.1\07 ThreadApp.AssemblyInfoInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\obj\Debug\netcoreapp3.1\07 ThreadApp.AssemblyInfo.cs
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\obj\Debug\netcoreapp3.1\07 ThreadApp.dll
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\obj\Debug\netcoreapp3.1\07 ThreadApp.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS Advanced\07 ThreadApp\obj\Debug\netcoreapp3.1\07 ThreadApp.genruntimeconfig.cache
