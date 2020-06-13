@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\07 LabelControl\bin\Debug\07 LabelControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\07 LabelControl\bin\Debug\07 LabelControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\07 LabelControl\bin\Debug\07 LabelControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\07 LabelControl\obj\Debug\_07_LabelControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\07 LabelControl\obj\Debug\_07_LabelControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\07 LabelControl\obj\Debug\07 LabelControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\07 LabelControl\obj\Debug\07 LabelControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\07 LabelControl\obj\Debug\07 LabelControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\07 LabelControl\obj\Debug\07 LabelControl.pdb

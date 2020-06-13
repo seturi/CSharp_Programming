@@ -1,0 +1,10 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\05 DataGridView\bin\Debug\05 DataGridView.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\05 DataGridView\bin\Debug\05 DataGridView.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\05 DataGridView\bin\Debug\05 DataGridView.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\05 DataGridView\obj\Debug\_05_DataGridView.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\05 DataGridView\obj\Debug\_05_DataGridView.Form2.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\05 DataGridView\obj\Debug\_05_DataGridView.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\05 DataGridView\obj\Debug\05 DataGridView.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\05 DataGridView\obj\Debug\05 DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\05 DataGridView\obj\Debug\05 DataGridView.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\05 DataGridView\obj\Debug\05 DataGridView.pdb

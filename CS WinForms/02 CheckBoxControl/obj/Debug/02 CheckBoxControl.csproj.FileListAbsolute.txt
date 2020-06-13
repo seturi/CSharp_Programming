@@ -1,0 +1,10 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\02 CheckBoxControl\bin\Debug\02 CheckBoxControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\02 CheckBoxControl\bin\Debug\02 CheckBoxControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\02 CheckBoxControl\bin\Debug\02 CheckBoxControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\02 CheckBoxControl\obj\Debug\02 CheckBoxControl.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\02 CheckBoxControl\obj\Debug\_02_CheckBoxControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\02 CheckBoxControl\obj\Debug\_02_CheckBoxControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\02 CheckBoxControl\obj\Debug\02 CheckBoxControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\02 CheckBoxControl\obj\Debug\02 CheckBoxControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\02 CheckBoxControl\obj\Debug\02 CheckBoxControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\02 CheckBoxControl\obj\Debug\02 CheckBoxControl.pdb

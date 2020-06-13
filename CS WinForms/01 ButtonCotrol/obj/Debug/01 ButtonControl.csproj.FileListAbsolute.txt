@@ -1,0 +1,20 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 SimpleWinForm\bin\Debug\01 ButtonControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 SimpleWinForm\bin\Debug\01 ButtonControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 SimpleWinForm\bin\Debug\01 ButtonControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 SimpleWinForm\obj\Debug\01 ButtonControl.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 SimpleWinForm\obj\Debug\_01_ButtonControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 SimpleWinForm\obj\Debug\_01_ButtonControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 SimpleWinForm\obj\Debug\01 ButtonControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 SimpleWinForm\obj\Debug\01 ButtonControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 SimpleWinForm\obj\Debug\01 ButtonControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 SimpleWinForm\obj\Debug\01 ButtonControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 ButtonCotrol\bin\Debug\01 ButtonControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 ButtonCotrol\bin\Debug\01 ButtonControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 ButtonCotrol\bin\Debug\01 ButtonControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 ButtonCotrol\obj\Debug\01 ButtonControl.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 ButtonCotrol\obj\Debug\_01_ButtonControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 ButtonCotrol\obj\Debug\_01_ButtonControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 ButtonCotrol\obj\Debug\01 ButtonControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 ButtonCotrol\obj\Debug\01 ButtonControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 ButtonCotrol\obj\Debug\01 ButtonControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\01 ButtonCotrol\obj\Debug\01 ButtonControl.pdb

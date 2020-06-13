@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\14 NumericUpDownControl\bin\Debug\14 NumericUpDownControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\14 NumericUpDownControl\bin\Debug\14 NumericUpDownControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\14 NumericUpDownControl\bin\Debug\14 NumericUpDownControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\14 NumericUpDownControl\obj\Debug\_14_NumericUpDownControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\14 NumericUpDownControl\obj\Debug\_14_NumericUpDownControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\14 NumericUpDownControl\obj\Debug\14 NumericUpDownControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\14 NumericUpDownControl\obj\Debug\14 NumericUpDownControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\14 NumericUpDownControl\obj\Debug\14 NumericUpDownControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\14 NumericUpDownControl\obj\Debug\14 NumericUpDownControl.pdb

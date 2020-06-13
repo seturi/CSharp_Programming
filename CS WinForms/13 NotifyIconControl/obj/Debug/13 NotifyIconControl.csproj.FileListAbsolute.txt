@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\13 NotifyIconControl\bin\Debug\13 NotifyIconControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\13 NotifyIconControl\bin\Debug\13 NotifyIconControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\13 NotifyIconControl\bin\Debug\13 NotifyIconControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\13 NotifyIconControl\obj\Debug\_13_NotifyIconControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\13 NotifyIconControl\obj\Debug\_13_NotifyIconControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\13 NotifyIconControl\obj\Debug\13 NotifyIconControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\13 NotifyIconControl\obj\Debug\13 NotifyIconControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\13 NotifyIconControl\obj\Debug\13 NotifyIconControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\13 NotifyIconControl\obj\Debug\13 NotifyIconControl.pdb

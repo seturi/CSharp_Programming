@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\08 LinkLabelControl\bin\Debug\08 LinkLabelControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\08 LinkLabelControl\bin\Debug\08 LinkLabelControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\08 LinkLabelControl\bin\Debug\08 LinkLabelControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\08 LinkLabelControl\obj\Debug\_08_LinkLabelControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\08 LinkLabelControl\obj\Debug\_08_LinkLabelControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\08 LinkLabelControl\obj\Debug\08 LinkLabelControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\08 LinkLabelControl\obj\Debug\08 LinkLabelControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\08 LinkLabelControl\obj\Debug\08 LinkLabelControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\08 LinkLabelControl\obj\Debug\08 LinkLabelControl.pdb
