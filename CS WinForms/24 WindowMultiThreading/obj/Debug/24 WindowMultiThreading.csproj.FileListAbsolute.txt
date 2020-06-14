@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\24 WindowMultiThreading\bin\Debug\24 WindowMultiThreading.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\24 WindowMultiThreading\bin\Debug\24 WindowMultiThreading.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\24 WindowMultiThreading\bin\Debug\24 WindowMultiThreading.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\24 WindowMultiThreading\obj\Debug\_24_WindowMultiThreading.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\24 WindowMultiThreading\obj\Debug\_24_WindowMultiThreading.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\24 WindowMultiThreading\obj\Debug\24 WindowMultiThreading.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\24 WindowMultiThreading\obj\Debug\24 WindowMultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\24 WindowMultiThreading\obj\Debug\24 WindowMultiThreading.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\24 WindowMultiThreading\obj\Debug\24 WindowMultiThreading.pdb

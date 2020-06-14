@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\18 TextBoxControl\bin\Debug\18 TextBoxControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\18 TextBoxControl\bin\Debug\18 TextBoxControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\18 TextBoxControl\bin\Debug\18 TextBoxControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\18 TextBoxControl\obj\Debug\_18_TextBoxControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\18 TextBoxControl\obj\Debug\_18_TextBoxControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\18 TextBoxControl\obj\Debug\18 TextBoxControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\18 TextBoxControl\obj\Debug\18 TextBoxControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\18 TextBoxControl\obj\Debug\18 TextBoxControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\18 TextBoxControl\obj\Debug\18 TextBoxControl.pdb

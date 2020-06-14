@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\16 ProgressBarControl\bin\Debug\16 ProgressBarControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\16 ProgressBarControl\bin\Debug\16 ProgressBarControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\16 ProgressBarControl\bin\Debug\16 ProgressBarControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\16 ProgressBarControl\obj\Debug\_16_ProgressBarControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\16 ProgressBarControl\obj\Debug\_16_ProgressBarControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\16 ProgressBarControl\obj\Debug\16 ProgressBarControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\16 ProgressBarControl\obj\Debug\16 ProgressBarControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\16 ProgressBarControl\obj\Debug\16 ProgressBarControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\16 ProgressBarControl\obj\Debug\16 ProgressBarControl.pdb

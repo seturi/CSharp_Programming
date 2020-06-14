@@ -1,0 +1,10 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\28 ChartControl\bin\Debug\28 ChartControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\28 ChartControl\bin\Debug\28 ChartControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\28 ChartControl\bin\Debug\28 ChartControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\28 ChartControl\obj\Debug\28 ChartControl.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\28 ChartControl\obj\Debug\_28_ChartControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\28 ChartControl\obj\Debug\_28_ChartControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\28 ChartControl\obj\Debug\28 ChartControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\28 ChartControl\obj\Debug\28 ChartControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\28 ChartControl\obj\Debug\28 ChartControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\28 ChartControl\obj\Debug\28 ChartControl.pdb

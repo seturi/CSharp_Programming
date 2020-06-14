@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\26 DragAndDrop\bin\Debug\26 DragAndDrop.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\26 DragAndDrop\bin\Debug\26 DragAndDrop.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\26 DragAndDrop\bin\Debug\26 DragAndDrop.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\26 DragAndDrop\obj\Debug\_26_DragAndDrop.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\26 DragAndDrop\obj\Debug\_26_DragAndDrop.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\26 DragAndDrop\obj\Debug\26 DragAndDrop.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\26 DragAndDrop\obj\Debug\26 DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\26 DragAndDrop\obj\Debug\26 DragAndDrop.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\26 DragAndDrop\obj\Debug\26 DragAndDrop.pdb

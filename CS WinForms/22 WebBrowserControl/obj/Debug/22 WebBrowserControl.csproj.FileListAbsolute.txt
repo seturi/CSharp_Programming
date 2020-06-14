@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\22 WebBrowserControl\bin\Debug\22 WebBrowserControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\22 WebBrowserControl\bin\Debug\22 WebBrowserControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\22 WebBrowserControl\bin\Debug\22 WebBrowserControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\22 WebBrowserControl\obj\Debug\_22_WebBrowserControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\22 WebBrowserControl\obj\Debug\_22_WebBrowserControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\22 WebBrowserControl\obj\Debug\22 WebBrowserControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\22 WebBrowserControl\obj\Debug\22 WebBrowserControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\22 WebBrowserControl\obj\Debug\22 WebBrowserControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\22 WebBrowserControl\obj\Debug\22 WebBrowserControl.pdb

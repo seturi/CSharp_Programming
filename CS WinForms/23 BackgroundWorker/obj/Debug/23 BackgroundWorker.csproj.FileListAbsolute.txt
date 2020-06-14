@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\23 BackgroundWorker\bin\Debug\23 BackgroundWorker.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\23 BackgroundWorker\bin\Debug\23 BackgroundWorker.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\23 BackgroundWorker\bin\Debug\23 BackgroundWorker.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\23 BackgroundWorker\obj\Debug\_23_BackgroundWorker.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\23 BackgroundWorker\obj\Debug\_23_BackgroundWorker.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\23 BackgroundWorker\obj\Debug\23 BackgroundWorker.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\23 BackgroundWorker\obj\Debug\23 BackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\23 BackgroundWorker\obj\Debug\23 BackgroundWorker.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\23 BackgroundWorker\obj\Debug\23 BackgroundWorker.pdb

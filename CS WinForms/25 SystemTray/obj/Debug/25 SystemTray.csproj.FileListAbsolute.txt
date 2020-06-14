@@ -1,0 +1,8 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\25 SystemTray\bin\Debug\25 SystemTray.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\25 SystemTray\bin\Debug\25 SystemTray.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\25 SystemTray\bin\Debug\25 SystemTray.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\25 SystemTray\obj\Debug\_25_SystemTray.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\25 SystemTray\obj\Debug\25 SystemTray.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\25 SystemTray\obj\Debug\25 SystemTray.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\25 SystemTray\obj\Debug\25 SystemTray.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\25 SystemTray\obj\Debug\25 SystemTray.pdb

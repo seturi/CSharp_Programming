@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\19 RichTextBoxControl\bin\Debug\19 RichTextBoxControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\19 RichTextBoxControl\bin\Debug\19 RichTextBoxControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\19 RichTextBoxControl\bin\Debug\19 RichTextBoxControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\19 RichTextBoxControl\obj\Debug\_19_RichTextBoxControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\19 RichTextBoxControl\obj\Debug\_19_RichTextBoxControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\19 RichTextBoxControl\obj\Debug\19 RichTextBoxControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\19 RichTextBoxControl\obj\Debug\19 RichTextBoxControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\19 RichTextBoxControl\obj\Debug\19 RichTextBoxControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\19 RichTextBoxControl\obj\Debug\19 RichTextBoxControl.pdb

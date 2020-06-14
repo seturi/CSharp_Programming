@@ -1,0 +1,9 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\15 PictureBoxControl\bin\Debug\15 PictureBoxControl.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\15 PictureBoxControl\bin\Debug\15 PictureBoxControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\15 PictureBoxControl\bin\Debug\15 PictureBoxControl.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\15 PictureBoxControl\obj\Debug\_15_PictureBoxControl.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\15 PictureBoxControl\obj\Debug\_15_PictureBoxControl.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\15 PictureBoxControl\obj\Debug\15 PictureBoxControl.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\15 PictureBoxControl\obj\Debug\15 PictureBoxControl.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\15 PictureBoxControl\obj\Debug\15 PictureBoxControl.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\15 PictureBoxControl\obj\Debug\15 PictureBoxControl.pdb

@@ -1,0 +1,10 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\27 App.Config\bin\Debug\27 App.Config.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\27 App.Config\bin\Debug\27 App.Config.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\27 App.Config\bin\Debug\27 App.Config.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\27 App.Config\obj\Debug\27 App.Config.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\27 App.Config\obj\Debug\_27_App.Config.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\27 App.Config\obj\Debug\_27_App.Config.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\27 App.Config\obj\Debug\27 App.Config.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\27 App.Config\obj\Debug\27 App.Config.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\27 App.Config\obj\Debug\27 App.Config.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS WinForms\27 App.Config\obj\Debug\27 App.Config.pdb
