@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\05 SqlParameter\bin\Debug\05 SqlParameter.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\05 SqlParameter\bin\Debug\05 SqlParameter.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\05 SqlParameter\bin\Debug\05 SqlParameter.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\05 SqlParameter\obj\Debug\05 SqlParameter.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\05 SqlParameter\obj\Debug\05 SqlParameter.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\05 SqlParameter\obj\Debug\05 SqlParameter.pdb

@@ -1,0 +1,11 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\04 SqlDataAdapter\bin\Debug\03 SqlDataAdapter.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\04 SqlDataAdapter\bin\Debug\03 SqlDataAdapter.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\04 SqlDataAdapter\bin\Debug\03 SqlDataAdapter.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\04 SqlDataAdapter\obj\Debug\04 SqlDataAdapter.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\04 SqlDataAdapter\obj\Debug\_04_SqlDataAdapter.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\04 SqlDataAdapter\obj\Debug\_03_SqlDataAdapter.Form2.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\04 SqlDataAdapter\obj\Debug\_03_SqlDataAdapter.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\04 SqlDataAdapter\obj\Debug\04 SqlDataAdapter.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\04 SqlDataAdapter\obj\Debug\04 SqlDataAdapter.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\04 SqlDataAdapter\obj\Debug\03 SqlDataAdapter.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\04 SqlDataAdapter\obj\Debug\03 SqlDataAdapter.pdb

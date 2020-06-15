@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\06 ConnectionPooling\bin\Debug\06 ConnectionPooling.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\06 ConnectionPooling\bin\Debug\06 ConnectionPooling.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\06 ConnectionPooling\bin\Debug\06 ConnectionPooling.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\06 ConnectionPooling\obj\Debug\06 ConnectionPooling.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\06 ConnectionPooling\obj\Debug\06 ConnectionPooling.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\06 ConnectionPooling\obj\Debug\06 ConnectionPooling.pdb

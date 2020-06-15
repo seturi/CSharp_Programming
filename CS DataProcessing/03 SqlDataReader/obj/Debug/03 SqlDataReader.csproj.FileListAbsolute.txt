@@ -1,0 +1,10 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\03 SqlDataReader\bin\Debug\03 SqlDataReader.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\03 SqlDataReader\bin\Debug\03 SqlDataReader.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\03 SqlDataReader\bin\Debug\03 SqlDataReader.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\03 SqlDataReader\obj\Debug\03 SqlDataReader.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\03 SqlDataReader\obj\Debug\_03_SqlDataReader.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\03 SqlDataReader\obj\Debug\_03_SqlDataReader.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\03 SqlDataReader\obj\Debug\03 SqlDataReader.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\03 SqlDataReader\obj\Debug\03 SqlDataReader.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\03 SqlDataReader\obj\Debug\03 SqlDataReader.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\03 SqlDataReader\obj\Debug\03 SqlDataReader.pdb
