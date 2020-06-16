@@ -1,7 +1,6 @@
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\01 SqlConnection\bin\Debug\01 SqlConnection.exe.config
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\01 SqlConnection\bin\Debug\01 SqlConnection.exe
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\01 SqlConnection\bin\Debug\01 SqlConnection.pdb
-C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\01 SqlConnection\obj\Debug\01 SqlConnection.csprojAssemblyReference.cache
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\01 SqlConnection\obj\Debug\01 SqlConnection.csproj.CoreCompileInputs.cache
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\01 SqlConnection\obj\Debug\01 SqlConnection.exe
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\01 SqlConnection\obj\Debug\01 SqlConnection.pdb

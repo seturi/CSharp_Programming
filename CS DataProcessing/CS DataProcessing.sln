@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 SqlParameter", "05 SqlPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 ConnectionPooling", "06 ConnectionPooling\06 ConnectionPooling.csproj", "{46BA0E69-4EDC-437D-9EA6-A9BCBE87ED25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 DataSet", "07 DataSet\07 DataSet.csproj", "{0FFA093A-1724-48E7-98F1-38C487BF3A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 DataSetMerge", "08 DataSetMerge\08 DataSetMerge.csproj", "{63D68DEE-3EF6-409D-808B-00FC33B0288A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{46BA0E69-4EDC-437D-9EA6-A9BCBE87ED25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46BA0E69-4EDC-437D-9EA6-A9BCBE87ED25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46BA0E69-4EDC-437D-9EA6-A9BCBE87ED25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFA093A-1724-48E7-98F1-38C487BF3A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFA093A-1724-48E7-98F1-38C487BF3A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFA093A-1724-48E7-98F1-38C487BF3A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFA093A-1724-48E7-98F1-38C487BF3A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D68DEE-3EF6-409D-808B-00FC33B0288A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D68DEE-3EF6-409D-808B-00FC33B0288A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D68DEE-3EF6-409D-808B-00FC33B0288A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D68DEE-3EF6-409D-808B-00FC33B0288A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

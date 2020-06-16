@@ -1,0 +1,10 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\07 DataSet\bin\Debug\07 DataSet.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\07 DataSet\bin\Debug\07 DataSet.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\07 DataSet\bin\Debug\07 DataSet.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\07 DataSet\obj\Debug\07 DataSet.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\07 DataSet\obj\Debug\_07_DataSet.Form1.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\07 DataSet\obj\Debug\_07_DataSet.Properties.Resources.resources
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\07 DataSet\obj\Debug\07 DataSet.csproj.GenerateResource.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\07 DataSet\obj\Debug\07 DataSet.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\07 DataSet\obj\Debug\07 DataSet.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\07 DataSet\obj\Debug\07 DataSet.pdb

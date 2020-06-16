@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\08 DataSetMerge\bin\Debug\08 DataSetMerge.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\08 DataSetMerge\bin\Debug\08 DataSetMerge.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\08 DataSetMerge\bin\Debug\08 DataSetMerge.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\08 DataSetMerge\obj\Debug\08 DataSetMerge.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\08 DataSetMerge\obj\Debug\08 DataSetMerge.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataProcessing\08 DataSetMerge\obj\Debug\08 DataSetMerge.pdb
