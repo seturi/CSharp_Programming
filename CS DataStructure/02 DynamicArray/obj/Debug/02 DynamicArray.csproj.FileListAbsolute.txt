@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\02 DynamicArray\bin\Debug\02 DynamicArray.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\02 DynamicArray\bin\Debug\02 DynamicArray.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\02 DynamicArray\bin\Debug\02 DynamicArray.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\02 DynamicArray\obj\Debug\02 DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\02 DynamicArray\obj\Debug\02 DynamicArray.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\02 DynamicArray\obj\Debug\02 DynamicArray.pdb
