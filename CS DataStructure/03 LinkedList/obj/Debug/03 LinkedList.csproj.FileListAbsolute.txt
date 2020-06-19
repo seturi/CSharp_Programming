@@ -1,6 +1,7 @@
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\03 LinkedList\bin\Debug\03 LinkedList.exe.config
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\03 LinkedList\bin\Debug\03 LinkedList.exe
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\03 LinkedList\bin\Debug\03 LinkedList.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\03 LinkedList\obj\Debug\03 LinkedList.csprojAssemblyReference.cache
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\03 LinkedList\obj\Debug\03 LinkedList.csproj.CoreCompileInputs.cache
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\03 LinkedList\obj\Debug\03 LinkedList.exe
 C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\03 LinkedList\obj\Debug\03 LinkedList.pdb

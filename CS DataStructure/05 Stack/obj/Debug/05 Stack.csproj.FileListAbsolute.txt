@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\05 Stack\bin\Debug\05 Stack.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\05 Stack\bin\Debug\05 Stack.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\05 Stack\bin\Debug\05 Stack.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\05 Stack\obj\Debug\05 Stack.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\05 Stack\obj\Debug\05 Stack.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\05 Stack\obj\Debug\05 Stack.pdb

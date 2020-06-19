@@ -1,0 +1,7 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\04 Queue\bin\Debug\04 Queue.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\04 Queue\bin\Debug\04 Queue.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\04 Queue\bin\Debug\04 Queue.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\04 Queue\obj\Debug\04 Queue.csprojAssemblyReference.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\04 Queue\obj\Debug\04 Queue.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\04 Queue\obj\Debug\04 Queue.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\04 Queue\obj\Debug\04 Queue.pdb
