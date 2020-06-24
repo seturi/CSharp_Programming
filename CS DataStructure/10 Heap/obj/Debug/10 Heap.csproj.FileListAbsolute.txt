@@ -1,0 +1,6 @@
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\10 Heap\bin\Debug\10 Heap.exe.config
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\10 Heap\bin\Debug\10 Heap.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\10 Heap\bin\Debug\10 Heap.pdb
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\10 Heap\obj\Debug\10 Heap.csproj.CoreCompileInputs.cache
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\10 Heap\obj\Debug\10 Heap.exe
+C:\Users\SwKim\Desktop\ing\Coding\C# Programming\CS DataStructure\10 Heap\obj\Debug\10 Heap.pdb
